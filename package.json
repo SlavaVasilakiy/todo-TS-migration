@@ -1,0 +1,15 @@
+{
+  "name": "todo_ts_migration",
+  "version": "1.0.0",
+  "description": "ToDo project migration to TypeScript",
+  "main": "src/app.ts",
+  "scripts": {
+    "start" : "tsc --watch"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.4.3"
+  }
+}
